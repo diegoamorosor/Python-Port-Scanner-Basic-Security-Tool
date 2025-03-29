@@ -25,8 +25,8 @@ A lightweight basic, multi-threaded port scanner written in Python for education
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/python-port-scanner.git
-cd python-port-scanner
+git clone https://github.com/diegoamororor/Python-Port-Scanner-Basic-Tool.git
+cd Python-Port-Scanner-Basic-Tool
 ````
 
 ---
